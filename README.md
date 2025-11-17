@@ -11,4 +11,4 @@ Check out the pages below for the projects I have worked on!
 👉 https://github.com/KevinLam-Work/kevin-webscraping
 
 ## Personal Attampt on AI for Power BI API for template creation 
-...work in progress
+👋 https://github.com/KevinLam-Work/PowerBI_API
