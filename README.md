@@ -9,3 +9,6 @@ Check out the pages below for the projects I have worked on!
 
 ## Web scraping
 👉 https://github.com/KevinLam-Work/kevin-webscraping
+
+## Personal Attampt on Machine Learning for Image Generator 
+...work in progress
